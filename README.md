@@ -5,3 +5,9 @@
 ### Robotics & Motion Planning Research Engineer 
 
 - Interested in working for deployment of motion planning algorithms on an autonomous mobile robot
+
+
+
+### Personal Mission Statement:
+
+- 
