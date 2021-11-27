@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge"  />](https://www.linkedin.com/in/sungho-woo-4693aa198/)[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="zoom:80%;" />](https://www.youtube.com/channel/UCCjVZi13p3LTqjysvHmIIhA/featured)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="zoom:70%;" />](https://www.youtube.com/channel/UCCjVZi13p3LTqjysvHmIIhA/featured)[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge"  />](https://www.linkedin.com/in/sungho-woo-4693aa198/)
 
 ### Personal Mission Statement:
 
