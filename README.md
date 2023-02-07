@@ -4,7 +4,7 @@
 
 ### Personal Mission Statement:
 
-- "Build a Robots That Makes Humans Happy"
+- "Build Robots That Makes Humans Happy"
 
 ### Interest
 
