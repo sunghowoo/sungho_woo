@@ -4,10 +4,10 @@
 
 ### Personal Mission Statement:
 
--:beers: "Build Robots That Make Humans Happy"
+- :beers: "Build Robots That Make Humans Happy"
 
 ### Interest
 
--:rocket: "Creating Robust Business Models With Robots"
--:sparkles: "How do robots perceive the real world well, judge well, and operate well?"
+- :rocket: "Creating Robust Business Models With Robots"
+- :sparkles: "How do robots perceive the real world well, judge well, and operate well?"
 
